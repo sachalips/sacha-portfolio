@@ -73,7 +73,7 @@ export default function Image() {
             textTransform: 'uppercase',
           }}
         >
-          ISG PARIS · MASTER PGE · ALTERNANCE SEPT. 2026
+          MARKETING · CONTENU · BRAND · IA
         </div>
       </div>
     ),

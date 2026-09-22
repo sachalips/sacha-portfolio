@@ -7,7 +7,7 @@ const entries = [
   {
     period: '2026–2028',
     place: 'ISG Paris',
-    desc: 'Master PGE, spécialité Marketing & Communication. En recherche d\'alternance.',
+    desc: 'Master PGE, spécialité Marketing & Communication.',
     current: true,
   },
   {

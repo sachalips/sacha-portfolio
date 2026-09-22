@@ -44,7 +44,7 @@ export default function Contact() {
           viewport={{ once: true, margin: '-60px' }}
           transition={{ duration: 0.7, delay: 0.25 }}
         >
-          Disponible pour une alternance — rentrée septembre 2026.
+          Contenu, marque, site web : un projet en tête ?
         </motion.p>
 
         {/* Email */}
@@ -110,15 +110,6 @@ export default function Contact() {
             className="font-mono text-[0.68rem] uppercase tracking-[0.2em] border border-ink/30 px-8 py-4 text-ink/70 hover:border-ink hover:text-ink transition-colors duration-200 min-w-[200px] text-center"
           >
             LINKEDIN ↗
-          </a>
-          <a
-            href="/cv-sacha-alips.pdf"
-            download="CV_Sacha_Alips.pdf"
-            rel="noopener"
-            data-cursor-hover
-            className="font-mono text-[0.68rem] uppercase tracking-[0.2em] bg-ink text-paper px-8 py-4 hover:bg-ink/85 transition-colors duration-200 min-w-[200px] text-center"
-          >
-            TÉLÉCHARGER MON CV ↓
           </a>
         </motion.div>
       </div>

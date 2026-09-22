@@ -9,18 +9,18 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://sacha-alips.vercel.app'),
   title: 'Sacha Alips — Portfolio Marketing & Communication',
   description:
-    'Étudiant en Master PGE Marketing & Communication à l\'ISG Paris, en recherche d\'alternance pour septembre 2026. Portfolio web design, brand, communication et AI.',
+    'Portfolio de Sacha Alips : marketing, création de contenu, brand et web design, augmentés par l\'IA.',
   openGraph: {
     title: 'Sacha Alips — Portfolio Marketing & Communication',
     description:
-      'Étudiant en Master PGE Marketing & Communication à l\'ISG Paris. En recherche d\'alternance, rentrée septembre 2026.',
+      'Marketing, création de contenu, brand et web design, augmentés par l\'IA.',
     type: 'website',
     locale: 'fr_FR',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Sacha Alips — Portfolio Marketing & Communication',
-    description: 'Master PGE ISG Paris · Alternance septembre 2026',
+    description: 'Marketing · Contenu · Brand · IA',
   },
 }
 

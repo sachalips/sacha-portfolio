@@ -72,9 +72,9 @@ export default function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.85, ease: 'easeOut' }}
             >
-              Étudiant en Master PGE — ISG Paris.
+              Marketing, contenu &amp; brand — Paris.
               <br />
-              En recherche d&apos;alternance, rentrée septembre 2026.
+              Ouvert aux nouveaux projets et collaborations.
             </motion.p>
 
             <motion.div
