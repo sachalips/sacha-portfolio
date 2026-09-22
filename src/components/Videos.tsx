@@ -219,7 +219,7 @@ export default function Videos() {
             />
           </motion.div>
 
-          {/* Vidéo 4 — Reel Instagram, décalée encore plus bas. Aperçu en boucle 12s → 16s */}
+          {/* Vidéo 4 — Reel Instagram, décalée encore plus bas (extrait de 4s, sans son) */}
           <motion.div className="md:mt-20" {...fadeUp(0.3)}>
             <VideoCard
               tag="REEL INSTAGRAM · BRAND CONTENT"
@@ -229,9 +229,6 @@ export default function Videos() {
               title="REEL CRÉATIF × IA"
               desc="Écriture, tournage et montage d'un Reel : hook en 3 secondes, humour et effet IA qui transforme la voiture."
               badge="SCRIPT · TOURNAGE · MONTAGE"
-              withSound
-              loopStart={12}
-              loopEnd={16}
             />
           </motion.div>
         </div>
